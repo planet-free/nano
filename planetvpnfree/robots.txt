@@ -1,0 +1,7 @@
+User-agent: *
+
+User-agent: Yandex
+
+Sitemap: https://nano.js.org/planetvpnfree/sitemap.xml
+
+Host: https://nano.js.org/planetvpnfree
