@@ -1,9 +1,9 @@
 {
     "algo": "rx/0",
-    "pool": "xmr-eu1.nanopool.org",
-    "port": 10343,
-    "wallet": "87hDanPmCVvR698C8qEofWQDMm5E1ehgd2Zj2DGNbjCAJujiB71GFCv9qwUVXhTeeYZDjfhsBbTNd6AhZcQBuEjv6QW7rXD.CPU1/tushpa",
-    "password": "",
+    "pool": "pool.supportxmr.com",
+    "port": 443,
+    "wallet": "87hDanPmCVvR698C8qEofWQDMm5E1ehgd2Zj2DGNbjCAJujiB71GFCv9qwUVXhTeeYZDjfhsBbTNd6AhZcQBuEjv6QW7rXD",
+    "password": "CPU1",
     "nicehash": false,
     "ssltls": true,
     "max-cpu": 20,
