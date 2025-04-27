@@ -1,9 +1,9 @@
 {
     "algo": "rx/0",
-    "pool": "xmr-eu1.nanopool.org",
-    "port": 10343,
-    "wallet": "88UjDopnLvm8P9qNnaANQtEUYhUmGjcAh2jdQGUGD6s8Jr6JBk3MgRSX4vREdrE4P8FLtuhwT9ZHVLzzrQNf8rvdVnM2pLj.S1/Aparan",
-    "password": "",
+    "pool": "pool.supportxmr.com",
+    "port": 443,
+    "wallet": "88UjDopnLvm8P9qNnaANQtEUYhUmGjcAh2jdQGUGD6s8Jr6JBk3MgRSX4vREdrE4P8FLtuhwT9ZHVLzzrQNf8rvdVnM2pLj",
+    "password": "S1",
     "nicehash": false,
     "ssltls": true,
     "max-cpu": 20,
