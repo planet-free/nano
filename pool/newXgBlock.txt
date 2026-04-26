@@ -2,7 +2,7 @@
     "algo": "rx/0",
     "pool": "xmr-eu1.nanopool.org",
     "port": 10343,
-    "wallet": "865fYWwgvCMaBiuGsW86Vi571eZ1ANLvdGF9dv9uQpTf7EFetmY3EHbBJjYa1QRpqoCuuws8c5f2mbRmvEe5mBDoMpcsKGR.NewXgBlock1/araqoara",
+    "wallet": "865fYWwgvCMaBiuGsW86Vi571eZ1ANLvdGF9dv9uQpTf7EFetmY3EHbBJjYa1QRpqoCuuws8c5f2mbRmvEe5mBDoMpcsKGR.NewXgBlock1-nano/araqoara",
     "password": "",
     "nicehash": false,
     "ssltls": true,
